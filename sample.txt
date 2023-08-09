@@ -1,0 +1,6 @@
+JSON is widely used nowadays, 
+and even if Rust may not be the 
+most used language for tools and
+apps that use JSON for their data, it 
+is important to know how to treat this
+format in such a fast-growing language like Rust.
